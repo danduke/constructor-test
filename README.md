@@ -7,7 +7,7 @@ Basically this shows that:
 * Both succeed when following a more "normal" path of a "render" call
 
 # output
-The output of running this is
+The console output of running this is
 
     --------------------------
     Working in pageRenderer
